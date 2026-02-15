@@ -3,7 +3,7 @@
 
 ## 📌 Setup Instructions
 1. Clone the repository:
-   git clone <repo-link>
+   git clone <[repo-link](https://github.com/ZohaJavaid02/KonstantInfo-Solution)>
 
 2. Navigate to project folder:
    cd project
