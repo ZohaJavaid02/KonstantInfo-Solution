@@ -20,8 +20,8 @@
 ---
 
 ## 🛠 Tech Stack Used
-- Frontend: HTML, CSS, JavaScript / React (if used)
-- Backend: Node.js / None (for static project)
+- Frontend: HTML, CSS, JavaScript / React
+- Backend: Node.js 
 - Database: None / Local storage
 - Other Tools/Libraries: Git, GitHub, VS Code
 
